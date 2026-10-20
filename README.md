@@ -17,6 +17,8 @@ A modern food delivery application built with React TypeScript frontend and .NET
 - **Infrastructure**: Azure Container Apps + Container Registry
 - **Deployment**: Azure Developer CLI (azd)
 
+<!-- SRE Agent PR write-access verification: safe connectivity test. -->
+
 ## 🚀 Complete Deployment Guide
 
 This guide shows how to deploy Grubify with **both backend versions** (v1 with memory leak, v2 with payment failures) for testing Azure SRE Agent scenarios.
