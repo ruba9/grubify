@@ -16,7 +16,6 @@ A modern food delivery application built with React TypeScript frontend and .NET
 - **Backend**: .NET 9 Web API with RESTful endpoints
 - **Infrastructure**: Azure Container Apps + Container Registry
 - **Deployment**: Azure Developer CLI (azd)
-
 <!-- SRE Agent PR write-access verification: safe connectivity test. -->
 
 ## 🚀 Complete Deployment Guide
